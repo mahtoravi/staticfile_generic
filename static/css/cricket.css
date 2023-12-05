@@ -1,0 +1,21 @@
+h1
+{
+    background-color: blue;
+    color: papayawhip;
+}
+h1:hover
+{
+  cursor: pointer;
+  background-color: blueviolet;
+}
+img
+{
+    height: 100%;
+    width: 100%;
+}
+img:hover
+{
+    cursor: pointer;
+    height: 50%;
+    width: 50%;
+}
